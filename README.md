@@ -20,7 +20,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/```
+ - ```git clone https://github.com/agrim786/ProAgrim```
 
 ##### Enter the directory
  - ```cd ProAgrim```
